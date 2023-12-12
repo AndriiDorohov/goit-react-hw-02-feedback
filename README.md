@@ -1,5 +1,3 @@
-**Read this in other languages: [Russian](README.md), [Ukrainian](README.ua.md).**
-
 # Feedback Widget
 
 Like most companies, Cafe Expresso collects feedback from its customers. Your task is to create an application to gather statistics. There are only three options for feedback: good, neutral, and bad.
